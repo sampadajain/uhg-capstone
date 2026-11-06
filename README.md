@@ -66,5 +66,6 @@ This repository implements a simplified end-to-end claims-processing agent syste
 
 ### Presentation support
 
-- This repository includes a presentation deck in PowerPoint format for the course review.
-- Use the architecture narrative and the outline as the talking track for a concise demonstration.
+- [UHG_FDE_CAPSTONE_PRESENTATION.pptx](UHG_FDE_CAPSTONE_PRESENTATION.pptx) – presentation deck for the course review.
+- [docs/11_presentation_outline.md](docs/11_presentation_outline.md) – 5-minute presentation outline and talk track.
+- Use the architecture narrative and the outline together for a concise, structured walkthrough.
