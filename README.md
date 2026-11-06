@@ -64,8 +64,16 @@ This repository implements a simplified end-to-end claims-processing agent syste
 - [docs/10_executive_summary.md](docs/10_executive_summary.md) – executive-facing overview.
 - [docs/11_presentation_outline.md](docs/11_presentation_outline.md) – 5-minute presentation outline.
 
-### Presentation support
+## Presentation assets
 
-- [UHG_FDE_CAPSTONE_PRESENTATION.pptx](UHG_FDE_CAPSTONE_PRESENTATION.pptx) – presentation deck for the course review.
-- [docs/11_presentation_outline.md](docs/11_presentation_outline.md) – 5-minute presentation outline and talk track.
-- Use the architecture narrative and the outline together for a concise, structured walkthrough.
+This section gathers the presentation materials for quick access and a clean handoff to reviewers, faculty, or stakeholders.
+
+- [UHG_FDE_CAPSTONE_PRESENTATION.pptx](UHG_FDE_CAPSTONE_PRESENTATION.pptx) – final polished deck for the course presentation.
+- [COURSE_SUBMISSION_REPORT.md](COURSE_SUBMISSION_REPORT.md) – single-page narrative and submission-ready write-up.
+- [docs/11_presentation_outline.md](docs/11_presentation_outline.md) – concise 5-minute presentation flow and speaker guide.
+- [ARCHITECTURE.md](ARCHITECTURE.md) – architecture overview for explaining the system design.
+- [docs/10_executive_summary.md](docs/10_executive_summary.md) – executive summary for a brief stakeholder update.
+
+### Quick summary
+
+Use the deck for the live presentation, the outline for the delivery flow, and the report for the written rationale. Together, these files provide a complete presentation package with business context, architecture explanation, and the supporting narrative.
