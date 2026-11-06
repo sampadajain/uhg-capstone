@@ -1,0 +1,11 @@
+langchain>=0.3.20
+langgraph>=0.2.60
+mcp>=1.7.0
+streamlit>=1.38.0
+pydantic>=2.9.2
+python-dotenv>=1.0.1
+pytest>=8.3.3
+psycopg[binary]>=3.2.1
+pandas>=2.2.3
+requests>=2.32.2
+jinja2>=3.1.6

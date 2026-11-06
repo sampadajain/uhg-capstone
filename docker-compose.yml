@@ -1,0 +1,30 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: uhg-postgres
+    environment:
+      POSTGRES_DB: claims
+      POSTGRES_USER: claims
+      POSTGRES_PASSWORD: claims
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  mailpit:
+    image: axllent/mailpit:v1.20
+    container_name: uhg-mailpit
+    ports:
+      - "8025:8025"
+      - "1025:1025"
+
+  phoenix:
+    image: arizephoenix/phoenix:latest
+    container_name: uhg-phoenix
+    ports:
+      - "6006:6006"
+
+volumes:
+  pgdata:
